@@ -3,7 +3,9 @@
 
 
 #### This script will help you start using selenium and automate all the boring web tasks
-#### You can use this script as a template for your selenium automations, just copy the content <br>of this script and it will saves for you alot of time and it will makes selenium easy to use!
+
+
+#### You can use this script as a template for your selenium automations, just copy it's content and it will makes selenium friendly and easy to use!
 
  1. First you need to have Python installed ( recommended version > 3.5 )	
 	 
@@ -14,7 +16,7 @@
 
 		
 	> you can use the Script to auto download the compatible ChromeDriver
-	> for your browser [lone The Repo](https://github.com/joeVenner/AutomateSeleniumAutomations/archive/main.zip)
+	> for your browser [Download it here](https://github.com/joeVenner/AutomateSeleniumAutomations/archive/main.zip)
 	> The Chrome Driver Script will put it in the User Home repo
 
  3. Download the Selenium Library:
