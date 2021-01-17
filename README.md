@@ -14,7 +14,7 @@
 
 		
 	> you can use the Script to auto download the compatible ChromeDriver
-	> for your browser "Download It Here"
+	> for your browser [lone The Repo](https://github.com/joeVenner/AutomateSeleniumAutomations/archive/main.zip)
 	> The Chrome Driver Script will put it in the User Home repo
 
  3. Download the Selenium Library:
