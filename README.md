@@ -3,6 +3,7 @@
 
 
 #### This script will help you start using selenium and automate all the boring web tasks
+#### You can use this script as a template for your selenium automations, just copy the content <br>of this script and it will saves for you alot of time and it will makes selenium easy to use!
 
  1. First you need to have Python installed ( recommended version > 3.5 )	
 	 
