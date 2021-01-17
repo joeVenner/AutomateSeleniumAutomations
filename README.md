@@ -7,7 +7,7 @@
  1. First you need to have Python installed ( recommended version > 3.5 )	
 	 
 
-     `Download it from [here](https://www.python.org/downloads/release/python-390/)`
+     - Download it from [here](https://www.python.org/downloads/release/python-390/)
 
  2. You will need to have Chrome Driver
 
